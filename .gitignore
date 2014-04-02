@@ -1,0 +1,15 @@
+.DS_Store
+.localized
+
+# Build directory
+build/
+
+# XCode user specific files
+xcuserdata/
+*.xcworkspace/
+
+# AppCode files
+.idea
+
+# Cocoapods files
+Pods/
